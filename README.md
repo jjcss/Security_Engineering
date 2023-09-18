@@ -9,15 +9,17 @@
 
 # Security Engineering
 
+<p>
 Thank you all for joining us today as our featured guest speaker a renowned Security Engineer with years of experience in the field led a live demo, providing a behind-the-scenes look at the process of creating cybersecurity tools. Build your own project using the cutting-edge techniques and strategies used to defend against evolving cyber threats.
 
 Date: September 19th, 2023 <br>
 Event Slides: <br>
-Zoom Recording: <br>
-
+Meeting ID: 848 2493 0304 <br>
+Zoom Link: [https://jjay-cuny.zoom.us/meeting/register/tZwud-igqD0rGNwfc0lkC66OqgOdsSY2jjTC](https://jjay-cuny.zoom.us/meeting/register/tZAlde2hrTspGtD5eGQI1VLrhtZXlUoUsFmA) <br>
+</P>
 ---
 
-## Next CSS Workshop
+# Next CSS Workshop
 <p>Name of Event: <b> Security Engineering </b> <br> Date: Septemebr 26th, 2023 (Tuesday) <br> 
 Time: 1:40 PM - 2:55 PM <br> 
 Room #: Harren Hall 206  <br>
