@@ -9,15 +9,12 @@
 
 # Security Engineering
 
-Thank you all for joining us today at our first meeting of the semester. We touched on what events you can expect this semester, new CSS Club Roles (Web Developer, Data Analyst, etc...), Involvement Fair, CTF Team, affiliate clubs, and the CUNY IE Initiative. The slide decks for all presentations are below for more information.
+Thank you all for joining us today as our featured guest speaker a renowned Security Engineer with years of experience in the field led a live demo, providing a behind-the-scenes look at the process of creating cybersecurity tools. Build your own project using the cutting-edge techniques and strategies used to defend against evolving cyber threats.
 
 Date: September 19th, 2023 <br>
+Event Slides: <br>
+Zoom Recording: <br>
 
-Description: Our featured guest speaker is a renowned Security Engineer with years of experience in the field. Follow along as they will lead a live demo, providing a behind-the-scenes look at the process of creating cybersecurity tools. Get ready to build your own project using the cutting-edge techniques and strategies used to defend against evolving cyber threats. <br> 
-
-Security Engineering Slides <br>
-
-Security Engineering Recording: <br>
 ---
 
 ## Next CSS Workshop
