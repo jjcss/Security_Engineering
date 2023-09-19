@@ -13,10 +13,11 @@
 Thank you all for joining us today as our featured guest speaker a renowned Security Engineer with years of experience in the field led a live demo, providing a behind-the-scenes look at the process of creating cybersecurity tools. Build your own project using the cutting-edge techniques and strategies used to defend against evolving cyber threats.
 
 Date: September 19th, 2023 <br>
-Event Slides: 
+Event Slides: <br>
 [Security_Engineering_Intro.pptx](https://github.com/jjcss/Security_Engineering/files/12666402/Security_Engineering_Intro.pptx)<br>
 [Security_Engineering_demo.pdf](https://github.com/jjcss/Security_Engineering/files/12666373/Security_Engineering.pdf)<br>
 Zoom Recording: https://jjay-cuny.zoom.us/rec/share/Qnq-WKg2iFiaq5F_T4jItZv9mieEeHnFHkdZXRLzcyN9pGTOjeA-n3yxIz_acA8a.etN3nHj8sYw3zhf8?startTime=1695145382000 <br>
+Code: https://github.com/chapinb/jj-geoip <br>
 
 ---
 
